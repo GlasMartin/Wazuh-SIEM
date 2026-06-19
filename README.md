@@ -1,6 +1,6 @@
 # Wazuh SIEM Implementation & Testing
 
-A hands-on cybersecurity laboratory project focused on deploying, configuring, and testing a Wazuh SIEM environment using VirtualBox.
+A hands-on cybersecurity laboratory project focused on deploying, configuring, and testing a Wazuh SIEM environment using VirtualBox. Visualized PDF summary inlcuded in repository.
 
 ## Project Overview
 
